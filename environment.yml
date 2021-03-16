@@ -1,0 +1,19 @@
+name: im2recipetransformers
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip
+  - nltk
+  - scikit-learn
+  - numpy
+  - pillow
+  - pytorch=1.6.0
+  - torchvision=0.7.0
+  - tqdm
+  - pip:
+    - tensorboard==2.3.0
+    - tensorboardx==2.1
+    - timm==0.3.1
+    - wordcloud
