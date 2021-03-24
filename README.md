@@ -2,7 +2,7 @@
 
 This is the PyTorch companion code for the paper:
 
-*Amaia Salvador, Erhan Gundogdu, Loris Bazzani, and Michael Donoser. [Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning](TBD). CVPR 2021*
+*Amaia Salvador, Erhan Gundogdu, Loris Bazzani, and Michael Donoser. [Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning](https://www.amazon.science/publications/revamping-cross-modal-recipe-retrieval-with-hierarchical-transformers-and-self-supervised-learning). CVPR 2021*
 
 If you find this code useful in your research, please consider citing using the following BibTeX entry:
 
